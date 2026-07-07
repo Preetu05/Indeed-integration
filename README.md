@@ -1,13 +1,16 @@
-🎯 Project Title
-Indeed Integration Assessment Dashboard
+🎯 Project Title:
+**Indeed Integration Assessment Dashboard**
 
-🎯 Objective
+🎯 Objective:
+
 Evaluate whether integrating Indeed as an additional job source adds meaningful value by identifying unique, relevant data roles not already captured from Seek and LinkedIn.
 
-🛠 Tools Used
+🛠 Tools Used:
+
 Excel
 
-📂 Data Used
+📂 Data Used:
+
 One month of job listings from:
 
 Seek + LinkedIn = Jobboard
@@ -17,41 +20,46 @@ Indeed
 Fields analysed:  
 posted_date (±2‑day window), job_title, company_name, job_description, location, top_tech_skills.
 
-🔍 Process
-Filtered Indeed listings to keep only data‑related roles.
+🔍 Process:
 
-Matched jobs across platforms using title, company, location, posted date.
+- Filtered Indeed listings to keep only data‑related roles.
 
-Used job description text to catch near‑duplicates with different wording.
+- Matched jobs across platforms using title, company, location, posted date.
 
-Categorised roles by quality (best, moderate, poor, no match).
+- Used job description text to catch near‑duplicates with different wording.
 
-Built a dashboard showing unique vs duplicate jobs, role categories, state distribution, and posting trends.
+- Categorised roles by quality (best, moderate, poor, no match).
 
-Analysed unique job contribution by state and role type.
+- Built a dashboard showing unique vs duplicate jobs, role categories, state distribution, and posting trends.
 
-📊 Key Insights
-77% of Indeed jobs were unique (not found on Seek/LinkedIn).
+- Analysed unique job contribution by state and role type.
 
-VIC and NSW had the highest number of unique job postings.
+📊 Key Insights:
 
-Best‑match roles were concentrated in QLD and SA.
+- 77% of Indeed jobs were unique (not found on Seek/LinkedIn).
 
-Duplicate patterns were strongest around similar posted dates and repeated company listings.
+- VIC and NSW had the highest number of unique job postings.
 
-Job descriptions helped identify “same job, different wording” duplicates.
+- Best‑match roles were concentrated in QLD and SA.
 
-📈 Impact
+- Duplicate patterns were strongest around similar posted dates and repeated company listings.
+
+- Job descriptions helped identify “same job, different wording” duplicates.
+
+📈 Impact:
+
 Delivered a clear, data‑driven view of whether Indeed adds new, valuable data roles to the job board ecosystem.
 
-📦 Deliverables
-Excel workbook showing duplicate detection logic
+📦 Deliverables:
 
-Excel dashboard (Unique vs Duplicate Jobs)
+- Excel workbook showing duplicate detection logic
 
-Summary metrics: total listings, relevant roles, unique roles, overlap %
+- Excel dashboard (Unique vs Duplicate Jobs)
 
-Final recommendation based on pilot‑run findings
+- Summary metrics: total listings, relevant roles, unique roles, overlap %
 
-🖼 Dashboard
+- Final recommendation based on pilot‑run findings
+
+🖼 Dashboard:
+
 [https://github.com/Preetu05/Indeed-integration#:~:text=Indeed%20Dashboard.jpg](https://github.com/Preetu05/Indeed-integration/blob/main/Indeed%20Dashboard.jpg)
