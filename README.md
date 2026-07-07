@@ -62,4 +62,5 @@ Delivered a clear, data‑driven view of whether Indeed adds new, valuable data 
 
 🖼 Dashboard:
 
-[https://github.com/Preetu05/Indeed-integration#:~:text=Indeed%20Dashboard.jpg](https://github.com/Preetu05/Indeed-integration/blob/main/Indeed%20Dashboard.jpg)
+![Dashboard](https://raw.githubusercontent.com/Preetu05/Indeed-integration/main/Indeed%20Dashboard.jpg)
+
