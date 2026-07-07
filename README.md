@@ -12,5 +12,6 @@ Excel-based analysis to check whether Indeed adds unique, relevant data roles co
 Run a longer 8–12 week pilot before full integration.
 
 ## Dashboard
-https://github.com/Preetu05/Indeed-integration#:~:text=Indeed%20Dashboard.jpg
+[https://github.com/Preetu05/Indeed-integration#:~:text=Indeed%20Dashboard.jpg](https://github.com/Preetu05/Indeed-integration/blob/main/Indeed%20Dashboard.jpg)
+
 
